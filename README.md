@@ -65,8 +65,8 @@ This repository contains the implementation and methodology for a **text-indepen
 - [XEUS Model Paper](https://arxiv.org/abs/XXXX.XXXX)  
 
 ## 🤝 Contributors  
-- **Gnanamoorthi PV**  
 - **M Balasubramanian**  
-- **Harshini KN**  
+- **Harshini KN**
+- **Gnanamoorthi PV**  
 - **Chitra P**  
 
