@@ -1,0 +1,991 @@
+Speaker,Audio_File,Recognized_Speaker,Distance,Result
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00001_14.wav,Aamir_Khan2,8.936488151550293,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00002.wav,A.R.Rahman2,10.966391563415527,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00003_1.wav,John_Abraham2,9.125640869140625,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00002_11.wav,A.R.Rahman2,8.38080883026123,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00006_1.wav,A.R.Rahman2,12.365938186645508,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00005_2.wav,A.R.Rahman2,11.523676872253418,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00006_4.wav,A.R.Rahman2,11.494386672973633,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00010_3.wav,A.R.Rahman2,7.698319911956787,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00008_1.wav,A.R.Rahman2,13.917901039123535,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00022.wav,Ranbir Kapoor2,9.552976608276367,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00024.wav,Shahid Kapoor2,10.031999588012695,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00007_3.wav,A.R.Rahman2,8.472042083740234,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00023.wav,A.R.Rahman2,9.626736640930176,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00010_4.wav,Naseeruddin Shah2,9.932025909423828,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00009_2.wav,A.R.Rahman2,9.769974708557129,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00002_6.wav,Aamir_Khan2,9.700295448303223,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00033.wav,A.R.Rahman2,13.017210006713867,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00013.wav,A.R.Rahman2,11.977544784545898,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00003_8.wav,A.R.Rahman2,9.650801658630371,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00007_5.wav,Naseeruddin Shah2,8.439571380615234,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00003_2.wav,A.R.Rahman2,10.124520301818848,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00001_6.wav,A.R.Rahman2,10.25156307220459,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00025_1.wav,A.R.Rahman2,7.856701374053955,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00003_4.wav,A.R.Rahman2,10.080157279968262,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00005_1.wav,A.R.Rahman2,8.855426788330078,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00003_6.wav,A.R.Rahman2,14.612083435058594,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00017.wav,Aamir_Khan2,9.414712905883789,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00021.wav,A.R.Rahman2,9.191916465759277,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00005.wav,A.R.Rahman2,15.551090240478516,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00005_4.wav,A.R.Rahman2,11.552311897277832,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00001_5.wav,A.R.Rahman2,12.76054573059082,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00007.wav,A.R.Rahman2,12.064521789550781,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00032.wav,A.R.Rahman2,9.931758880615234,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00009_1.wav,A.R.Rahman2,10.61060905456543,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00002_7.wav,A.R.Rahman2,9.991748809814453,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00008_2.wav,A.R.Rahman2,10.053807258605957,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00011.wav,A.R.Rahman2,9.550467491149902,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00008.wav,A.R.Rahman2,10.992024421691895,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00001_1.wav,A.R.Rahman2,7.280514717102051,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00009.wav,A.R.Rahman2,10.854784965515137,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00002_2.wav,Ranbir Kapoor2,8.200142860412598,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00009_4.wav,A.R.Rahman2,10.242841720581055,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00002_8.wav,A.R.Rahman2,12.26771068572998,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00015.wav,A.R.Rahman2,8.073628425598145,0
+A.R.Rahman,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10002\00001_7.wav,A.R.Rahman2,10.223516464233398,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00011_1.wav,Aamir_Khan2,9.781719207763672,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00001_4.wav,Shahid Kapoor2,7.159268379211426,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00017.wav,Aamir_Khan2,8.550407409667969,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00001_13.wav,Om Puri2,9.364239692687988,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00024_1.wav,Om Puri2,9.332789421081543,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00006_7.wav,Om Puri2,10.37529468536377,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00043.wav,Shahid Kapoor2,8.735636711120605,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00025_1.wav,Om Puri2,9.008079528808594,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00003_5.wav,Aamir_Khan2,8.003623962402344,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00007_2.wav,Aamir_Khan2,8.453752517700195,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00001_10.wav,Shahid Kapoor2,8.54212760925293,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00006_3.wav,Amitabh Bachchan2,8.984670639038086,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00007_1.wav,Shahid Kapoor2,7.868087291717529,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00001_1.wav,Om Puri2,8.328783988952637,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00005_2.wav,Aamir_Khan2,8.204559326171875,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00021.wav,Aamir_Khan2,8.268412590026855,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00013.wav,Aamir_Khan2,8.953696250915527,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00036.wav,Aamir_Khan2,6.867671012878418,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00005.wav,Shahid Kapoor2,8.94880199432373,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00006_2.wav,Aamir_Khan2,9.208508491516113,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00002_1.wav,Om Puri2,8.36313533782959,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00003_2.wav,Amitabh Bachchan2,10.299080848693848,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00019_2.wav,Aamir_Khan2,8.662569999694824,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00004_6.wav,Aamir_Khan2,12.630400657653809,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00001_11.wav,Aamir_Khan2,8.933201789855957,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00014_2.wav,Aamir_Khan2,7.306390762329102,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00035.wav,Aamir_Khan2,8.417296409606934,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00014_3.wav,Om Puri2,8.79190444946289,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00015_1.wav,Aamir_Khan2,7.726437091827393,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00002_11.wav,Shahid Kapoor2,8.475590705871582,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00027.wav,Shahid Kapoor2,9.264495849609375,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00009_1.wav,Suraj Sharma2,8.610546112060547,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00007_3.wav,John_Abraham2,10.19094181060791,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00017_3.wav,Akshay_Kumar2,11.878314018249512,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00010.wav,Aamir_Khan2,8.199808120727539,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00031_1.wav,Om Puri2,9.603375434875488,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00032_1.wav,Om Puri2,9.575783729553223,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00026_1.wav,Om Puri2,9.49677848815918,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00024.wav,Aamir_Khan2,8.0335111618042,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00037.wav,Aamir_Khan2,6.6338629722595215,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00014.wav,Aamir_Khan2,6.724531650543213,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00012_1.wav,Aamir_Khan2,9.147616386413574,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00023_1.wav,Akshay_Kumar2,9.364363670349121,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00018_1.wav,Shahid Kapoor2,6.548299789428711,0
+Aamir_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10003\00009_3.wav,Shahid Kapoor2,7.174295425415039,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00023_2.wav,Akshay_Kumar2,10.761585235595703,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00032_1.wav,Akshay_Kumar2,8.789831161499023,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00004.wav,Akshay_Kumar2,9.273571968078613,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00022_2.wav,Akshay_Kumar2,12.560458183288574,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00015_5.wav,Suraj Sharma2,8.517391204833984,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00003_13.wav,Akshay_Kumar2,10.070167541503906,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00003_5.wav,Om Puri2,8.789616584777832,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00018.wav,Suraj Sharma2,6.379195213317871,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00003_6.wav,Om Puri2,8.037211418151855,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00011_6.wav,Akshay_Kumar2,7.853431701660156,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00006.wav,Suraj Sharma2,9.07519817352295,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00024_2.wav,Om Puri2,7.496175765991211,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00002_6.wav,Akshay_Kumar2,9.80169677734375,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00012_3.wav,Akshay_Kumar2,8.459431648254395,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00010_5.wav,Kangana Ranaut2,9.67443561553955,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00029.wav,Akshay_Kumar2,7.759404182434082,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00002.wav,Ranbir Kapoor2,8.110015869140625,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00002_11.wav,Om Puri2,10.149245262145996,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00031_1.wav,Akshay_Kumar2,8.587411880493164,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00016_4.wav,Om Puri2,9.034123420715332,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00011_1.wav,Suraj Sharma2,9.638469696044922,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00004_9.wav,Om Puri2,10.932470321655273,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00001_23.wav,Irfan Khan2,10.627286911010742,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00025_1.wav,Shahid Kapoor2,9.822461128234863,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00010_2.wav,John_Abraham2,8.36632251739502,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00001_21.wav,Shahid Kapoor2,8.252853393554688,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00002_14.wav,Akshay_Kumar2,11.494763374328613,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00012_2.wav,Shahid Kapoor2,7.015232563018799,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00001_22.wav,Om Puri2,9.966838836669922,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00014.wav,Shahid Kapoor2,8.91138744354248,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00001_3.wav,Shahid Kapoor2,6.867525100708008,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00004_10.wav,Akshay_Kumar2,7.555030822753906,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00001_12.wav,John_Abraham2,10.307703018188477,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00059.wav,Om Puri2,8.97026538848877,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00005_4.wav,John_Abraham2,9.506718635559082,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00001_14.wav,Om Puri2,9.292489051818848,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00033.wav,Akshay_Kumar2,9.178510665893555,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00019_1.wav,Shahid Kapoor2,8.739540100097656,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00009_6.wav,Om Puri2,9.571268081665039,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00020_3.wav,Om Puri2,9.357573509216309,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00043.wav,John_Abraham2,7.712000846862793,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00001_5.wav,John_Abraham2,8.455028533935547,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00012_6.wav,Akshay_Kumar2,9.239895820617676,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00003_15.wav,Akshay_Kumar2,9.162644386291504,0
+Akshay_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10018\00047.wav,Aamir_Khan2,7.582638263702393,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00032_2.wav,Amitabh Bachchan2,7.135696887969971,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00038_2.wav,Amitabh Bachchan2,7.927473545074463,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00004_1.wav,Amitabh Bachchan2,10.410503387451172,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00004_7.wav,John_Abraham2,9.361320495605469,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00002_11.wav,Om Puri2,8.577075004577637,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00008_3.wav,Suraj Sharma2,8.729254722595215,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00005_9.wav,Om Puri2,9.855687141418457,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00054.wav,Amitabh Bachchan2,8.438055992126465,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00064.wav,Amitabh Bachchan2,9.716540336608887,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00005_5.wav,Amitabh Bachchan2,7.930012226104736,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00018_4.wav,Amitabh Bachchan2,8.315996170043945,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00004_11.wav,Amitabh Bachchan2,7.451785564422607,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00002_6.wav,Amitabh Bachchan2,8.77735710144043,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00017_4.wav,Amitabh Bachchan2,9.110027313232422,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00006.wav,Amitabh Bachchan2,7.882538318634033,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00062.wav,Amitabh Bachchan2,6.610037326812744,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00013_3.wav,Randeep Hooda2,10.837749481201172,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00032.wav,Suraj Sharma2,8.461297988891602,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00007_9.wav,Amitabh Bachchan2,8.20739459991455,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00042_2.wav,Amitabh Bachchan2,6.999346733093262,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00002_10.wav,Amitabh Bachchan2,10.15198802947998,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00046_2.wav,Amitabh Bachchan2,7.661996364593506,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00051.wav,Amitabh Bachchan2,8.581086158752441,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00040_1.wav,Amitabh Bachchan2,7.7466325759887695,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00007_4.wav,Amitabh Bachchan2,7.542862892150879,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00008_5.wav,Amitabh Bachchan2,9.80049991607666,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00049_1.wav,Amitabh Bachchan2,8.940223693847656,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00037_1.wav,Amitabh Bachchan2,8.431136131286621,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00045_1.wav,Freida Pinto2,9.698319435119629,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00010_6.wav,Amitabh Bachchan2,8.713866233825684,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00006_6.wav,John_Abraham2,9.88814640045166,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00018_3.wav,Amitabh Bachchan2,8.8301420211792,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00021_1.wav,Amitabh Bachchan2,10.98797607421875,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00004_4.wav,Amitabh Bachchan2,10.024978637695312,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00014_5.wav,Om Puri2,7.9554362297058105,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00003.wav,Amitabh Bachchan2,9.114219665527344,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00012_6.wav,Shahid Kapoor2,8.024185180664062,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00027_3.wav,Amitabh Bachchan2,9.628497123718262,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00002_4.wav,Om Puri2,8.694442749023438,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00002_5.wav,Amitabh Bachchan2,7.494372367858887,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00039_1.wav,Amitabh Bachchan2,7.420250415802002,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00027_1.wav,Amitabh Bachchan2,8.867691040039062,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00001_6.wav,Amitabh Bachchan2,8.754021644592285,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00001_2.wav,Amitabh Bachchan2,10.079305648803711,0
+Amitabh_Bachchan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10045\00002_7.wav,Amitabh Bachchan2,8.853395462036133,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00002_17.wav,Freida Pinto2,9.479938507080078,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00015.wav,Freida Pinto2,7.228407859802246,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00005_6.wav,Freida Pinto2,10.432960510253906,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00004_10.wav,Freida Pinto2,8.274922370910645,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00001_24.wav,Freida Pinto2,11.519670486450195,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00008.wav,Freida Pinto2,6.925934314727783,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00001_17.wav,Freida Pinto2,10.731781005859375,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00005_4.wav,Freida Pinto2,7.397034645080566,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00010_1.wav,Freida Pinto2,10.379081726074219,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00002_16.wav,Freida Pinto2,9.063246726989746,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00003_7.wav,Freida Pinto2,7.662549018859863,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00001_6.wav,Freida Pinto2,5.799098014831543,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00006_4.wav,Freida Pinto2,8.24766731262207,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00001_9.wav,Freida Pinto2,6.271022796630859,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00001_18.wav,Freida Pinto2,7.274001598358154,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00001_10.wav,Freida Pinto2,9.19002914428711,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00001_4.wav,Pooja Kumar2,11.514092445373535,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00002_5.wav,Freida Pinto2,6.542669296264648,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00002_3.wav,Freida Pinto2,9.915389060974121,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00003_4.wav,Freida Pinto2,6.515600681304932,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00001_21.wav,Freida Pinto2,5.166866779327393,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00003_17.wav,Pooja Kumar2,7.750967025756836,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00003_11.wav,Freida Pinto2,7.959177017211914,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00003_8.wav,Pooja Kumar2,10.491092681884766,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00004_3.wav,Freida Pinto2,7.140483379364014,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00001_8.wav,Freida Pinto2,9.686614990234375,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00008_2.wav,Freida Pinto2,7.545530319213867,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00002_13.wav,Freida Pinto2,10.77998161315918,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00004_2.wav,Sonam Kapoor2,9.474870681762695,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00012.wav,Pooja Kumar2,10.379352569580078,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00011.wav,Freida Pinto2,6.064991474151611,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00001_26.wav,Freida Pinto2,10.013628005981445,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00001_12.wav,Freida Pinto2,7.9448113441467285,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00003_2.wav,Freida Pinto2,7.19009256362915,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00004_13.wav,Freida Pinto2,12.265499114990234,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00005_2.wav,Freida Pinto2,7.146600723266602,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00013_1.wav,Freida Pinto2,9.872089385986328,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00006_1.wav,Freida Pinto2,6.711720943450928,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00003_9.wav,Freida Pinto2,6.216838359832764,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00004_8.wav,Freida Pinto2,6.150825500488281,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00004_9.wav,Pooja Kumar2,9.310107231140137,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00008_1.wav,Freida Pinto2,7.101110458374023,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00007_1.wav,Freida Pinto2,7.4554243087768555,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00012_1.wav,Freida Pinto2,8.097757339477539,0
+Freida_Pinto,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10324\00007_3.wav,Freida Pinto2,7.3357768058776855,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00018_5.wav,Amitabh Bachchan2,7.251857280731201,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00019_5.wav,Naseeruddin Shah2,9.141267776489258,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00002_18.wav,Ranbir Kapoor2,10.54513931274414,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00007.wav,Irfan Khan2,9.073689460754395,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00032_2.wav,Amitabh Bachchan2,8.50577449798584,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00009_8.wav,Om Puri2,8.676093101501465,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00017_6.wav,Shahid Kapoor2,8.633905410766602,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00011_2.wav,Ranbir Kapoor2,7.83424711227417,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00010_2.wav,Shahid Kapoor2,6.513879299163818,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00001_1.wav,Irfan Khan2,8.0551118850708,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00004_13.wav,Suraj Sharma2,8.106424331665039,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00022_2.wav,Shahid Kapoor2,9.808711051940918,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00001_6.wav,Shahid Kapoor2,8.026878356933594,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00004_17.wav,Naseeruddin Shah2,6.993477821350098,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00002_19.wav,Naseeruddin Shah2,7.982394695281982,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00036_2.wav,Shahid Kapoor2,7.541622161865234,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00008.wav,Shahid Kapoor2,10.3845853805542,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00003.wav,Amitabh Bachchan2,8.053434371948242,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00007_1.wav,Ranbir Kapoor2,7.114130020141602,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00041_1.wav,Akshay_Kumar2,9.12065315246582,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00017_7.wav,Shahid Kapoor2,8.457717895507812,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00004_12.wav,Om Puri2,9.187466621398926,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00008_8.wav,Shahid Kapoor2,6.195910930633545,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00005_4.wav,Naseeruddin Shah2,9.78831958770752,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00014_4.wav,Om Puri2,9.14327335357666,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00005_8.wav,Shahid Kapoor2,6.797980308532715,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00010_7.wav,Naseeruddin Shah2,7.88832950592041,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00002_10.wav,Shahid Kapoor2,7.592328071594238,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00023.wav,Irfan Khan2,7.140398025512695,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00044_1.wav,Om Puri2,9.05509090423584,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00026_2.wav,Irfan Khan2,8.242854118347168,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00005_14.wav,Suraj Sharma2,7.135148048400879,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00040.wav,Shahid Kapoor2,8.473316192626953,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00009_4.wav,Irfan Khan2,8.142115592956543,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00001_20.wav,Amitabh Bachchan2,8.265890121459961,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00023_1.wav,Om Puri2,8.152880668640137,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00008_2.wav,Om Puri2,12.202258110046387,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00017.wav,Shahid Kapoor2,9.550225257873535,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00044.wav,Aamir_Khan2,8.463232040405273,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00001_18.wav,Ranbir Kapoor2,9.52443790435791,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00003_16.wav,Naseeruddin Shah2,10.09068775177002,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00032_1.wav,Om Puri2,7.322206020355225,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00027_1.wav,Om Puri2,8.890997886657715,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00006.wav,Aamir_Khan2,7.768468379974365,0
+Irfan_Khan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10393\00027_2.wav,Suraj Sharma2,7.577308177947998,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00002_8.wav,John_Abraham2,8.838666915893555,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00003_3.wav,John_Abraham2,7.48596715927124,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00018_1.wav,Shahid Kapoor2,6.6895432472229,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00014.wav,Shahid Kapoor2,6.116807460784912,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00007_2.wav,Om Puri2,8.413248062133789,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00001_2.wav,Shahid Kapoor2,7.7745137214660645,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00005_2.wav,Akshay_Kumar2,7.142501354217529,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00007_3.wav,Naseeruddin Shah2,8.093358039855957,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00004_3.wav,Shahid Kapoor2,8.84273624420166,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00019.wav,Shahid Kapoor2,7.4778618812561035,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00007_5.wav,John_Abraham2,6.562596797943115,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00023.wav,Shahid Kapoor2,10.175301551818848,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00013.wav,Akshay_Kumar2,7.210808753967285,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00002.wav,Akshay_Kumar2,8.226213455200195,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00005_1.wav,John_Abraham2,8.195581436157227,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00004_1.wav,John_Abraham2,8.812763214111328,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00010.wav,Akshay_Kumar2,8.738886833190918,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00009.wav,Akshay_Kumar2,7.226768493652344,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00015_1.wav,Shahid Kapoor2,9.722990989685059,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00002_5.wav,Om Puri2,8.684426307678223,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00004.wav,John_Abraham2,8.684464454650879,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00005_3.wav,Ranbir Kapoor2,7.702987194061279,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00003_5.wav,John_Abraham2,10.264630317687988,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00008_1.wav,Akshay_Kumar2,9.289010047912598,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00005.wav,Ranbir Kapoor2,8.36098575592041,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00002_7.wav,Akshay_Kumar2,8.584219932556152,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00020.wav,John_Abraham2,7.795710563659668,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00002_1.wav,Shahid Kapoor2,9.297500610351562,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00025.wav,John_Abraham2,7.003854274749756,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00004_4.wav,Shahid Kapoor2,7.892579078674316,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00003.wav,John_Abraham2,8.32068920135498,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00001.wav,John_Abraham2,8.850992202758789,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00006_1.wav,Akshay_Kumar2,9.839792251586914,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00006_4.wav,Akshay_Kumar2,8.822324752807617,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00012_1.wav,Shahid Kapoor2,7.543778419494629,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00003_6.wav,John_Abraham2,6.928121566772461,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00011_1.wav,Shahid Kapoor2,8.022309303283691,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00003_7.wav,Om Puri2,10.215974807739258,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00009_1.wav,Shahid Kapoor2,7.28378963470459,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00002_9.wav,John_Abraham2,9.338254928588867,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00001_4.wav,Akshay_Kumar2,8.075064659118652,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00002_2.wav,Amitabh Bachchan2,8.107770919799805,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00001_5.wav,Akshay_Kumar2,11.559682846069336,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00006.wav,Shraddha Kapoor2,8.599613189697266,0
+John_Abraham,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10519\00003_1.wav,Suraj Sharma2,10.118009567260742,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00007_11.wav,Kangana Ranaut2,7.037940502166748,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00021_4.wav,Kangana Ranaut2,7.0648298263549805,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00004_12.wav,Kangana Ranaut2,10.541791915893555,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00017_5.wav,Om Puri2,9.451915740966797,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00009.wav,Akshay_Kumar2,10.880887985229492,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00008_6.wav,Suraj Sharma2,7.942155361175537,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00009_6.wav,Suraj Sharma2,7.3928914070129395,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00001_11.wav,Kangana Ranaut2,8.193214416503906,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00001_9.wav,Akshay_Kumar2,8.969671249389648,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00010_5.wav,Akshay_Kumar2,10.127105712890625,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00004_11.wav,Akshay_Kumar2,8.20909595489502,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00003_3.wav,Sonam Kapoor2,7.386397838592529,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00018_4.wav,Freida Pinto2,9.214580535888672,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00004_3.wav,Sonam Kapoor2,5.9647040367126465,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00013_5.wav,Preity Zinta2,10.378785133361816,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00008_5.wav,Akshay_Kumar2,9.447473526000977,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00008_3.wav,Kangana Ranaut2,15.039072036743164,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00013_6.wav,Freida Pinto2,8.270040512084961,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00013_4.wav,Kangana Ranaut2,6.693266868591309,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00016_3.wav,Sonam Kapoor2,6.385420322418213,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00028_2.wav,Mallika Sherawat2,6.597067356109619,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00020.wav,Sonam Kapoor2,7.939826011657715,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00009_5.wav,Akshay_Kumar2,7.698040008544922,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00008_1.wav,Parineeti Chopra2,7.220566272735596,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00001_16.wav,Freida Pinto2,8.582597732543945,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00024_3.wav,Om Puri2,10.077951431274414,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00003_7.wav,Parineeti Chopra2,8.493879318237305,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00005_1.wav,Parineeti Chopra2,7.584990501403809,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00001_15.wav,Shahid Kapoor2,8.753519058227539,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00001_2.wav,Kangana Ranaut2,7.993021488189697,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00014_5.wav,Kangana Ranaut2,10.752199172973633,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00017_2.wav,Freida Pinto2,8.46757984161377,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00035_1.wav,Akshay_Kumar2,9.472649574279785,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00007_10.wav,Suraj Sharma2,7.234084129333496,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00014_3.wav,Sonam Kapoor2,11.343852043151855,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00005_11.wav,Kangana Ranaut2,7.063967227935791,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00002_12.wav,Kangana Ranaut2,8.207401275634766,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00029_2.wav,Akshay_Kumar2,8.500861167907715,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00007_7.wav,Kangana Ranaut2,10.871042251586914,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00011_2.wav,Pooja Kumar2,9.0513277053833,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00015_1.wav,Sonam Kapoor2,8.936834335327148,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00010_8.wav,Akshay_Kumar2,8.513689041137695,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00002_3.wav,Kangana Ranaut2,6.903342247009277,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00011_8.wav,Akshay_Kumar2,8.231645584106445,0
+Kanagana_Ranaut,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10583\00014_4.wav,Kangana Ranaut2,6.6847124099731445,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00022.wav,Mallika Sherawat2,5.296029567718506,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00017_2.wav,Mallika Sherawat2,5.486206531524658,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00030.wav,Aamir_Khan2,7.4097161293029785,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00005_6.wav,Mallika Sherawat2,9.08415412902832,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00007_3.wav,Mallika Sherawat2,7.888821125030518,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00017.wav,Mallika Sherawat2,9.487251281738281,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00010_2.wav,Mallika Sherawat2,7.161373138427734,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00011_2.wav,Mallika Sherawat2,5.8883562088012695,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00007_5.wav,Mallika Sherawat2,6.819211483001709,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00010_1.wav,Mallika Sherawat2,8.180158615112305,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00010.wav,Mallika Sherawat2,8.317580223083496,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00003_8.wav,Mallika Sherawat2,6.570631980895996,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00007_2.wav,Om Puri2,11.405547142028809,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00001_10.wav,Akshay_Kumar2,10.566402435302734,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00003.wav,Om Puri2,8.621111869812012,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00008.wav,Mallika Sherawat2,6.23690128326416,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00003_1.wav,Mallika Sherawat2,6.492591857910156,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00016_1.wav,Mallika Sherawat2,6.8773512840271,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00001_11.wav,Freida Pinto2,7.332152366638184,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00002_8.wav,Mallika Sherawat2,5.712385177612305,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00021.wav,Mallika Sherawat2,6.695870399475098,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00005_4.wav,Suraj Sharma2,7.960348129272461,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00003_5.wav,Mallika Sherawat2,7.76458215713501,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00011_3.wav,Mallika Sherawat2,5.081171989440918,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00009_2.wav,Suraj Sharma2,8.622115135192871,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00007.wav,Vidya Balan2,8.391517639160156,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00001_6.wav,Om Puri2,9.050590515136719,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00001_4.wav,Mallika Sherawat2,11.469910621643066,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00009.wav,Aamir_Khan2,7.3705949783325195,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00009_4.wav,Mallika Sherawat2,7.076189994812012,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00009_3.wav,Mallika Sherawat2,10.913850784301758,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00018_1.wav,Mallika Sherawat2,5.966493129730225,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00028.wav,Mallika Sherawat2,5.948628902435303,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00002.wav,Om Puri2,9.076536178588867,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00001_2.wav,Mallika Sherawat2,8.690390586853027,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00014_1.wav,Mallika Sherawat2,6.447608947753906,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00003_6.wav,Mallika Sherawat2,6.446051597595215,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00008_1.wav,Freida Pinto2,8.346959114074707,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00006_3.wav,Mallika Sherawat2,7.700919151306152,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00004_3.wav,Om Puri2,11.18268871307373,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00006_2.wav,Mallika Sherawat2,12.736318588256836,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00013_1.wav,Mallika Sherawat2,5.930487632751465,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00003_7.wav,Mallika Sherawat2,5.873476028442383,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00005_2.wav,Mallika Sherawat2,6.2817511558532715,0
+Mallika_Sherawat,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10724\00026.wav,Mallika Sherawat2,7.338403224945068,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00036.wav,Naseeruddin Shah2,6.3861565589904785,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00012.wav,Naseeruddin Shah2,8.63968276977539,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00038.wav,Naseeruddin Shah2,7.487561225891113,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00003_7.wav,Naseeruddin Shah2,10.300562858581543,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00069.wav,Naseeruddin Shah2,7.975485801696777,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00011.wav,Naseeruddin Shah2,12.164717674255371,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00050.wav,Naseeruddin Shah2,7.731278419494629,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00004_4.wav,Om Puri2,8.51315689086914,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00002_4.wav,Om Puri2,9.014557838439941,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00001_9.wav,Suraj Sharma2,8.015543937683105,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00003_6.wav,Om Puri2,11.951008796691895,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00067.wav,Naseeruddin Shah2,8.287708282470703,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00020.wav,Aamir_Khan2,8.977340698242188,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00002_8.wav,Naseeruddin Shah2,8.23466968536377,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00013_4.wav,Naseeruddin Shah2,7.823559761047363,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00001_7.wav,Om Puri2,7.432734489440918,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00002_5.wav,Naseeruddin Shah2,9.80905818939209,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00003.wav,Naseeruddin Shah2,10.60323715209961,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00002_2.wav,Naseeruddin Shah2,8.76366901397705,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00015.wav,Naseeruddin Shah2,8.029064178466797,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00012_4.wav,Naseeruddin Shah2,9.735158920288086,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00018_1.wav,Naseeruddin Shah2,10.10547924041748,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00012_3.wav,Naseeruddin Shah2,8.614442825317383,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00035.wav,Naseeruddin Shah2,6.3999924659729,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00030.wav,Naseeruddin Shah2,8.274984359741211,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00003_8.wav,Naseeruddin Shah2,8.450691223144531,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00048.wav,Naseeruddin Shah2,9.689603805541992,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00002_6.wav,Randeep Hooda2,10.927018165588379,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00002_10.wav,Naseeruddin Shah2,7.053914546966553,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00008_4.wav,Naseeruddin Shah2,8.473735809326172,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00007.wav,Naseeruddin Shah2,8.921106338500977,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00008_2.wav,Preity Zinta2,7.456691265106201,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00004_8.wav,Naseeruddin Shah2,9.150867462158203,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00001_10.wav,Om Puri2,8.017687797546387,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00023.wav,Naseeruddin Shah2,8.448064804077148,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00005.wav,Naseeruddin Shah2,8.30407428741455,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00064.wav,Naseeruddin Shah2,12.009373664855957,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00004_7.wav,Om Puri2,7.035092353820801,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00011_1.wav,Naseeruddin Shah2,9.708878517150879,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00017_2.wav,Pooja Kumar2,9.944401741027832,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00010_3.wav,Naseeruddin Shah2,8.135851860046387,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00009_4.wav,Naseeruddin Shah2,8.061452865600586,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00002_7.wav,Naseeruddin Shah2,9.396381378173828,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00003_11.wav,Om Puri2,10.201093673706055,0
+Naseerudhin_Shah,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10852\00063.wav,Naseeruddin Shah2,12.04859733581543,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00002_4.wav,Om Puri2,7.301895618438721,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00001_13.wav,Om Puri2,8.192583084106445,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00001_19.wav,Om Puri2,8.238673210144043,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00004_3.wav,Om Puri2,8.103611946105957,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00006_7.wav,Om Puri2,6.034394264221191,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00016_1.wav,Om Puri2,9.250079154968262,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00008_3.wav,Om Puri2,9.196696281433105,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00014.wav,Om Puri2,8.397871971130371,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00003_9.wav,Om Puri2,9.970885276794434,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00005_7.wav,Om Puri2,8.161735534667969,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00003_13.wav,Akshay_Kumar2,9.790334701538086,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00006_6.wav,Om Puri2,6.024779796600342,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00003_2.wav,Om Puri2,8.61293888092041,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00005_9.wav,John_Abraham2,10.984560012817383,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00001_3.wav,Amitabh Bachchan2,9.012972831726074,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00003.wav,Om Puri2,8.506806373596191,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00008_2.wav,Om Puri2,7.338270664215088,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00017.wav,Om Puri2,8.32653522491455,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00004_8.wav,Om Puri2,12.252772331237793,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00004_4.wav,Om Puri2,10.113585472106934,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00001_18.wav,Om Puri2,8.090238571166992,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00006_3.wav,Om Puri2,7.797712802886963,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00001_4.wav,Om Puri2,9.500818252563477,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00015_1.wav,Om Puri2,7.728614330291748,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00013_1.wav,Om Puri2,8.327688217163086,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00012_2.wav,Om Puri2,7.65993595123291,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00005_6.wav,Naseeruddin Shah2,10.256569862365723,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00007_1.wav,Om Puri2,7.398342609405518,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00001_9.wav,Om Puri2,8.825993537902832,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00007.wav,Om Puri2,7.048283100128174,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00010_1.wav,Om Puri2,5.507058143615723,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00004.wav,Om Puri2,12.00890827178955,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00004_9.wav,Om Puri2,6.2699079513549805,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00011_1.wav,Om Puri2,5.358572483062744,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00001_5.wav,Om Puri2,10.680646896362305,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00003_12.wav,Om Puri2,6.937273025512695,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00006_8.wav,Om Puri2,8.173161506652832,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00015.wav,Om Puri2,7.6656928062438965,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00001_6.wav,Om Puri2,9.005125045776367,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00014_1.wav,Om Puri2,7.701794147491455,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00003_5.wav,Om Puri2,10.085862159729004,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00005.wav,Om Puri2,6.3885369300842285,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00002_5.wav,Om Puri2,8.167057037353516,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00005_4.wav,Om Puri2,9.795329093933105,0
+Om_Puri,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10901\00003_3.wav,Om Puri2,6.545797348022461,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00004_12.wav,Parineeti Chopra2,8.38492202758789,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00017_5.wav,Parineeti Chopra2,8.338902473449707,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00006_4.wav,Parineeti Chopra2,7.7498698234558105,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00002_15.wav,Aamir_Khan2,10.024120330810547,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00014_2.wav,Sonam Kapoor2,10.843962669372559,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00001_26.wav,Sonam Kapoor2,10.081645011901855,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00003_1.wav,Parineeti Chopra2,8.954211235046387,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00006_10.wav,Om Puri2,11.588534355163574,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00010_6.wav,Parineeti Chopra2,8.814495086669922,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00004_1.wav,Parineeti Chopra2,9.613981246948242,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00003_5.wav,Parineeti Chopra2,7.1833882331848145,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00001_27.wav,Om Puri2,10.571544647216797,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00005_6.wav,Parineeti Chopra2,7.731644630432129,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00006_7.wav,Parineeti Chopra2,13.05336856842041,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00013_5.wav,Parineeti Chopra2,6.654752254486084,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00029.wav,Parineeti Chopra2,8.421974182128906,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00003_11.wav,Parineeti Chopra2,6.471526622772217,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00026.wav,Parineeti Chopra2,7.581716537475586,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00015_3.wav,Parineeti Chopra2,6.785429000854492,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00028.wav,Parineeti Chopra2,6.7465667724609375,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00023_2.wav,Parineeti Chopra2,9.923629760742188,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00021_2.wav,Parineeti Chopra2,5.4026641845703125,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00002_14.wav,Preity Zinta2,6.384324550628662,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00010_1.wav,Parineeti Chopra2,7.170321464538574,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00005_11.wav,Akshay_Kumar2,10.339913368225098,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00006_3.wav,Parineeti Chopra2,5.07684326171875,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00024_2.wav,Parineeti Chopra2,7.526750087738037,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00011_4.wav,Parineeti Chopra2,9.460073471069336,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00005_8.wav,Sonam Kapoor2,13.258275985717773,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00015_5.wav,Parineeti Chopra2,8.731291770935059,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00019_3.wav,Parineeti Chopra2,7.012956619262695,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00005_1.wav,Shraddha Kapoor2,9.824623107910156,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00022_1.wav,Parineeti Chopra2,6.768678188323975,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00017_4.wav,Parineeti Chopra2,6.6004838943481445,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00001_22.wav,Parineeti Chopra2,11.07380199432373,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00006_11.wav,Parineeti Chopra2,10.765185356140137,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00001.wav,Parineeti Chopra2,8.87238883972168,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00008_3.wav,Parineeti Chopra2,6.4593305587768555,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00032.wav,Parineeti Chopra2,6.37485933303833,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00027_1.wav,Parineeti Chopra2,8.316320419311523,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00003_16.wav,Akshay_Kumar2,9.676647186279297,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00025_2.wav,Parineeti Chopra2,9.592979431152344,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00017.wav,Parineeti Chopra2,9.132185935974121,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00003.wav,Parineeti Chopra2,7.566031455993652,0
+Parineeti_Chopra,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10912\00018_3.wav,Parineeti Chopra2,8.58998966217041,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00004_5.wav,Pooja Kumar2,9.736166954040527,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00005_7.wav,Pooja Kumar2,7.069775104522705,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00007_5.wav,Pooja Kumar2,7.795665264129639,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00014_6.wav,Pooja Kumar2,7.580899715423584,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00032.wav,Pooja Kumar2,9.641149520874023,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00018_2.wav,Pooja Kumar2,6.912629127502441,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00001_8.wav,Pooja Kumar2,8.090391159057617,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00016_2.wav,Freida Pinto2,7.4030375480651855,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00001_11.wav,Pooja Kumar2,11.882442474365234,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00004_8.wav,Pooja Kumar2,9.911908149719238,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00005_2.wav,Pooja Kumar2,6.208123207092285,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00003_4.wav,Pooja Kumar2,6.058812141418457,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00015_4.wav,Pooja Kumar2,6.065655708312988,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00030.wav,Pooja Kumar2,9.073893547058105,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00012_2.wav,Pooja Kumar2,7.512332439422607,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00010.wav,Freida Pinto2,6.798390865325928,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00007_2.wav,Pooja Kumar2,8.237820625305176,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00003_5.wav,Pooja Kumar2,6.625138282775879,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00008_7.wav,Pooja Kumar2,10.021269798278809,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00009_2.wav,Pooja Kumar2,6.071620464324951,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00013_5.wav,Pooja Kumar2,11.27424144744873,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00002_5.wav,Pooja Kumar2,8.556161880493164,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00002_1.wav,Sonam Kapoor2,9.474691390991211,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00004_9.wav,Pooja Kumar2,6.48111629486084,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00009.wav,Pooja Kumar2,8.435341835021973,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00010_4.wav,Pooja Kumar2,6.849884510040283,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00012_6.wav,Pooja Kumar2,6.710486888885498,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00014_2.wav,John_Abraham2,9.282578468322754,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00008_3.wav,Mallika Sherawat2,7.78312349319458,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00001_2.wav,Pooja Kumar2,6.441843509674072,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00027_1.wav,Pooja Kumar2,7.5906219482421875,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00002.wav,Pooja Kumar2,9.370865821838379,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00001_1.wav,Suraj Sharma2,8.096336364746094,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00005_5.wav,Pooja Kumar2,5.941948413848877,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00006_7.wav,Pooja Kumar2,8.731995582580566,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00002_8.wav,Pooja Kumar2,6.871181488037109,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00003_3.wav,Freida Pinto2,8.147592544555664,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00025_2.wav,Pooja Kumar2,9.152398109436035,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00021_2.wav,Pooja Kumar2,6.478697776794434,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00010_1.wav,Pooja Kumar2,10.500807762145996,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00033_1.wav,Pooja Kumar2,6.692303657531738,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00017_2.wav,Pooja Kumar2,9.42470645904541,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00020_1.wav,Amitabh Bachchan2,13.943601608276367,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00002_9.wav,Pooja Kumar2,7.073173522949219,0
+Pooja_Kumar,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10941\00028_1.wav,Pooja Kumar2,7.482938289642334,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00014_6.wav,Preity Zinta2,5.343011379241943,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00018_4.wav,Shraddha Kapoor2,6.698401927947998,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00009.wav,Amitabh Bachchan2,13.086825370788574,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00007_3.wav,Sonam Kapoor2,7.024893283843994,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00002_2.wav,Pooja Kumar2,9.0961275100708,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00025_4.wav,Om Puri2,7.740739822387695,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00012_3.wav,Suraj Sharma2,9.549266815185547,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00008_7.wav,Akshay_Kumar2,7.638823509216309,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00039.wav,Preity Zinta2,9.576979637145996,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00019_2.wav,Om Puri2,9.282905578613281,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00004_4.wav,Akshay_Kumar2,9.003366470336914,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00006_7.wav,Akshay_Kumar2,8.621858596801758,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00028_3.wav,Om Puri2,8.916804313659668,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00023_1.wav,Suraj Sharma2,7.621804237365723,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00002_6.wav,Om Puri2,9.241538047790527,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00025_1.wav,Sonam Kapoor2,6.530650615692139,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00002_4.wav,Ranbir Kapoor2,11.081940650939941,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00015_4.wav,Mallika Sherawat2,5.561116695404053,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00030_1.wav,Amitabh Bachchan2,10.727625846862793,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00034.wav,Shahid Kapoor2,6.638970851898193,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00005_7.wav,Om Puri2,8.115896224975586,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00013_5.wav,Akshay_Kumar2,8.477130889892578,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00005_9.wav,Parineeti Chopra2,5.838500499725342,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00004_11.wav,Mallika Sherawat2,8.57447624206543,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00029_1.wav,Pooja Kumar2,8.524662971496582,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00001_18.wav,Om Puri2,9.47045612335205,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00007_6.wav,Preity Zinta2,6.763612747192383,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00001_2.wav,Freida Pinto2,7.52890682220459,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00021.wav,Suraj Sharma2,9.289859771728516,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00002_7.wav,Sonam Kapoor2,7.862377166748047,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00013_4.wav,Mallika Sherawat2,6.215761661529541,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00013_7.wav,Ranbir Kapoor2,11.16628360748291,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00005_5.wav,Parineeti Chopra2,8.429000854492188,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00013.wav,Preity Zinta2,7.388380527496338,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00007_5.wav,Sonam Kapoor2,6.411951541900635,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00001_21.wav,Pooja Kumar2,10.230379104614258,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00031_4.wav,Preity Zinta2,9.523964881896973,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00041.wav,Amitabh Bachchan2,10.270074844360352,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00024_2.wav,Sonam Kapoor2,7.190600395202637,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00012_5.wav,Akshay_Kumar2,7.3711838722229,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00037.wav,Sonam Kapoor2,9.41770076751709,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00001_12.wav,Om Puri2,7.9314141273498535,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00025_3.wav,Preity Zinta2,7.558022975921631,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00001_8.wav,Akshay_Kumar2,9.200994491577148,0
+Preity_Zinta,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10943\00017_5.wav,Akshay_Kumar2,8.149097442626953,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00010_5.wav,Ranbir Kapoor2,7.933563709259033,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00010_8.wav,Ranbir Kapoor2,6.905510902404785,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00001_12.wav,Ranbir Kapoor2,7.179748058319092,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00010_4.wav,Ranbir Kapoor2,6.673264026641846,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00007_9.wav,Ranbir Kapoor2,6.684746265411377,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00001_1.wav,Ranbir Kapoor2,5.985840320587158,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00021_3.wav,John_Abraham2,9.207354545593262,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00016.wav,Ranbir Kapoor2,7.910386085510254,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00011_8.wav,Ranbir Kapoor2,8.338969230651855,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00006_10.wav,Ranbir Kapoor2,6.438732147216797,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00007_10.wav,Ranbir Kapoor2,7.041715145111084,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00003_8.wav,Om Puri2,8.692323684692383,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00014_3.wav,Ranbir Kapoor2,6.470808029174805,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00005_2.wav,Amitabh Bachchan2,8.577855110168457,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00016_5.wav,Ranbir Kapoor2,11.76646614074707,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00003_1.wav,Shahid Kapoor2,6.411838054656982,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00031.wav,Shahid Kapoor2,8.285287857055664,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00002_12.wav,Naseeruddin Shah2,9.308459281921387,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00006_2.wav,Ranbir Kapoor2,9.316934585571289,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00002_16.wav,Ranbir Kapoor2,8.471221923828125,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00022_1.wav,Ranbir Kapoor2,7.867712497711182,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00002_17.wav,Ranbir Kapoor2,8.66553783416748,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00002_14.wav,Randeep Hooda2,6.438055515289307,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00006_3.wav,Ranbir Kapoor2,6.6057610511779785,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00010_2.wav,Ranbir Kapoor2,7.495059967041016,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00018_3.wav,Om Puri2,9.205434799194336,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00016_2.wav,Ranbir Kapoor2,8.707869529724121,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00028.wav,Ranbir Kapoor2,7.206703186035156,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00003_10.wav,Ranbir Kapoor2,9.321212768554688,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00006_5.wav,Ranbir Kapoor2,8.320488929748535,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00020.wav,Ranbir Kapoor2,7.9630889892578125,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00015.wav,Ranbir Kapoor2,7.227538585662842,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00009_2.wav,Ranbir Kapoor2,7.707916736602783,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00003_15.wav,Ranbir Kapoor2,7.362908840179443,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00010_7.wav,Ranbir Kapoor2,7.43499755859375,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00002_4.wav,Ranbir Kapoor2,7.370330810546875,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00015_4.wav,Om Puri2,10.032082557678223,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00017_1.wav,Ranbir Kapoor2,7.517095565795898,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00024.wav,Ranbir Kapoor2,8.476513862609863,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00001_15.wav,Om Puri2,9.740407943725586,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00021_1.wav,Ranbir Kapoor2,9.329712867736816,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00006_6.wav,Ranbir Kapoor2,5.874892711639404,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00001_20.wav,Ranbir Kapoor2,7.168487071990967,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00028_1.wav,John_Abraham2,10.425493240356445,0
+Ranbir_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10955\00005_12.wav,Ranbir Kapoor2,7.639721870422363,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00005_9.wav,Amitabh Bachchan2,7.639434814453125,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00010_4.wav,Shahid Kapoor2,6.914729595184326,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00016_3.wav,Aamir_Khan2,7.113799571990967,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00016_2.wav,Shahid Kapoor2,7.678462505340576,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00013_3.wav,Naseeruddin Shah2,8.640471458435059,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00004_13.wav,Naseeruddin Shah2,7.129730224609375,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00011_7.wav,Om Puri2,8.396084785461426,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00002.wav,Shahid Kapoor2,8.851434707641602,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00015.wav,Om Puri2,9.001063346862793,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00009_1.wav,Akshay_Kumar2,11.440778732299805,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00007_7.wav,Shahid Kapoor2,8.48880672454834,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00009_2.wav,Om Puri2,9.365238189697266,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00002_14.wav,Naseeruddin Shah2,7.4780426025390625,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00021_2.wav,Amitabh Bachchan2,8.161713600158691,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00016_4.wav,Shahid Kapoor2,7.858715057373047,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00001_19.wav,Akshay_Kumar2,11.390344619750977,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00002_16.wav,Naseeruddin Shah2,8.315679550170898,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00004_14.wav,Om Puri2,7.480813026428223,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00001_14.wav,Om Puri2,9.933764457702637,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00022.wav,Om Puri2,8.057785034179688,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00009_3.wav,Om Puri2,7.819220542907715,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00003_10.wav,Shahid Kapoor2,6.616067409515381,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00008_1.wav,Akshay_Kumar2,9.956894874572754,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00006.wav,Shahid Kapoor2,9.482855796813965,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00026_1.wav,Randeep Hooda2,6.619474411010742,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00001_18.wav,Naseeruddin Shah2,8.326931953430176,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00011_2.wav,Amitabh Bachchan2,12.67777156829834,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00001_15.wav,John_Abraham2,10.097434997558594,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00020.wav,Om Puri2,11.615487098693848,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00014_5.wav,Randeep Hooda2,8.418728828430176,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00032.wav,Shahid Kapoor2,9.079854965209961,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00006_9.wav,Amitabh Bachchan2,8.254825592041016,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00034.wav,Shahid Kapoor2,8.8449125289917,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00030.wav,Shahid Kapoor2,7.698843002319336,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00001_2.wav,Suraj Sharma2,7.712281703948975,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00001_16.wav,Naseeruddin Shah2,9.27985954284668,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00002_4.wav,Ranbir Kapoor2,8.284746170043945,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00017.wav,Om Puri2,9.855779647827148,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00001_3.wav,Om Puri2,8.463324546813965,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00019_2.wav,Aamir_Khan2,8.197343826293945,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00005_4.wav,Shahid Kapoor2,10.95557975769043,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00013_6.wav,Akshay_Kumar2,7.1518025398254395,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00001_12.wav,Shahid Kapoor2,8.51155948638916,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00013_1.wav,Om Puri2,9.895560264587402,0
+Randeep_Hooda,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id10956\00008_4.wav,Shahid Kapoor2,7.988985538482666,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00007_3.wav,Shahid Kapoor2,9.549736976623535,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00004_6.wav,Shahid Kapoor2,8.786421775817871,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00001_8.wav,Ranbir Kapoor2,7.747737884521484,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00015.wav,Shahid Kapoor2,8.383355140686035,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00007.wav,Shahid Kapoor2,7.950563907623291,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00006_3.wav,Shahid Kapoor2,7.567196369171143,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00011_1.wav,Shahid Kapoor2,7.613838195800781,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00016.wav,Shahid Kapoor2,8.027329444885254,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00005_8.wav,Shahid Kapoor2,6.605335235595703,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00002_5.wav,Ranbir Kapoor2,7.551662921905518,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00006_1.wav,Shahid Kapoor2,7.507307529449463,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00002_2.wav,Shahid Kapoor2,8.087589263916016,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00012_1.wav,Shahid Kapoor2,5.703827381134033,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00006.wav,Shahid Kapoor2,7.3739776611328125,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00009.wav,Shahid Kapoor2,8.009294509887695,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00009_2.wav,Shahid Kapoor2,8.08472728729248,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00003_4.wav,John_Abraham2,8.214213371276855,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00001_14.wav,John_Abraham2,7.919969081878662,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00012.wav,Ranbir Kapoor2,7.9435200691223145,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00019.wav,Amitabh Bachchan2,13.049736022949219,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00001_15.wav,Shahid Kapoor2,7.073625564575195,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00009_3.wav,Om Puri2,9.807090759277344,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00003_8.wav,Shahid Kapoor2,6.372705459594727,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00023.wav,Shahid Kapoor2,10.371325492858887,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00002_4.wav,Shahid Kapoor2,6.093092918395996,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00013.wav,Shahid Kapoor2,9.820210456848145,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00008_2.wav,Shahid Kapoor2,7.035605430603027,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00020.wav,Shahid Kapoor2,7.1996378898620605,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00007_6.wav,Shahid Kapoor2,8.051854133605957,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00002_12.wav,Akshay_Kumar2,9.961543083190918,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00008_1.wav,Shahid Kapoor2,9.664752006530762,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00002_10.wav,Irfan Khan2,8.27520751953125,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00007_5.wav,Randeep Hooda2,7.046197414398193,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00005.wav,Shahid Kapoor2,9.470940589904785,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00006_6.wav,Shahid Kapoor2,8.523392677307129,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00003_2.wav,Shahid Kapoor2,6.128396987915039,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00001_12.wav,Shahid Kapoor2,8.01941967010498,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00004_3.wav,Shahid Kapoor2,6.875868320465088,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00001_7.wav,Amitabh Bachchan2,8.82734203338623,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00006_4.wav,Shahid Kapoor2,6.329323768615723,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00001_3.wav,Shahid Kapoor2,8.70655632019043,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00006_2.wav,Shahid Kapoor2,7.340601444244385,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00013_1.wav,Shahid Kapoor2,8.961503982543945,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00001_17.wav,Shahid Kapoor2,7.495121955871582,0
+Shahid_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11071\00002_1.wav,Naseeruddin Shah2,9.125164985656738,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00010_1.wav,Akshay_Kumar2,9.059454917907715,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00006_3.wav,Shraddha Kapoor2,7.92182731628418,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00001_28.wav,Parineeti Chopra2,6.939972400665283,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00003.wav,Parineeti Chopra2,8.370964050292969,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00006_2.wav,Akshay_Kumar2,9.077566146850586,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00007.wav,Parineeti Chopra2,7.8311872482299805,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00035.wav,Akshay_Kumar2,7.118896484375,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00007_1.wav,Shraddha Kapoor2,9.300606727600098,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00003_8.wav,Shraddha Kapoor2,10.148158073425293,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00002_18.wav,Parineeti Chopra2,7.173857688903809,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00036.wav,Akshay_Kumar2,9.720056533813477,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00003_16.wav,Parineeti Chopra2,7.504570007324219,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00001_13.wav,Sonam Kapoor2,8.277992248535156,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00023.wav,Akshay_Kumar2,8.132328033447266,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00009_3.wav,Shraddha Kapoor2,7.592097282409668,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00001_25.wav,Mallika Sherawat2,8.019951820373535,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00001_9.wav,Parineeti Chopra2,7.244414806365967,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00004_13.wav,Parineeti Chopra2,7.6964111328125,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00010.wav,Shraddha Kapoor2,9.172929763793945,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00006_10.wav,Shraddha Kapoor2,7.028200626373291,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00005_11.wav,Akshay_Kumar2,11.146235466003418,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00006_8.wav,Akshay_Kumar2,8.399894714355469,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00001_15.wav,Vidya Balan2,9.798135757446289,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00014_1.wav,Sonam Kapoor2,6.847766876220703,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00002_10.wav,Sonam Kapoor2,10.089672088623047,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00001_2.wav,Akshay_Kumar2,9.163433074951172,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00003_9.wav,Parineeti Chopra2,11.009767532348633,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00010_2.wav,Mallika Sherawat2,9.55851936340332,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00006_1.wav,Aamir_Khan2,9.423721313476562,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00002_16.wav,Sonam Kapoor2,9.004197120666504,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00004.wav,Sonam Kapoor2,7.258213043212891,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00038.wav,Akshay_Kumar2,9.311389923095703,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00001_24.wav,Shraddha Kapoor2,8.610740661621094,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00004_1.wav,Sonam Kapoor2,9.592595100402832,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00001_16.wav,Shraddha Kapoor2,9.544198989868164,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00030.wav,Shraddha Kapoor2,7.189397811889648,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00011_2.wav,Vidya Balan2,7.0899553298950195,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00021.wav,Om Puri2,10.728690147399902,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00003_10.wav,Parineeti Chopra2,5.8543877601623535,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00003_5.wav,Shraddha Kapoor2,8.634584426879883,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00002_14.wav,Shahid Kapoor2,6.55748176574707,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00001_14.wav,Shraddha Kapoor2,8.672088623046875,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00005_10.wav,Vidya Balan2,8.91557788848877,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00003_4.wav,Shraddha Kapoor2,8.59361743927002,0
+Shraddha_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11089\00004_4.wav,Suraj Sharma2,10.2946138381958,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00012_1.wav,Suraj Sharma2,8.338790893554688,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00008_1.wav,Sonam Kapoor2,6.58043909072876,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00006_12.wav,Sonam Kapoor2,8.917874336242676,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00003_1.wav,Sonam Kapoor2,7.879502773284912,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00004_13.wav,Sonam Kapoor2,9.06705093383789,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00001_25.wav,Tabu2,9.59622859954834,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00003_13.wav,Freida Pinto2,8.14620304107666,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00016_1.wav,Mallika Sherawat2,7.8244524002075195,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00001_21.wav,Om Puri2,11.09475040435791,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00010_3.wav,Mallika Sherawat2,7.695520401000977,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00006_10.wav,Sonam Kapoor2,8.52140998840332,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00007_13.wav,Akshay_Kumar2,8.868102073669434,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00001_12.wav,Sonam Kapoor2,8.970563888549805,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00005_7.wav,Sonam Kapoor2,7.405993938446045,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00020_1.wav,Sonam Kapoor2,7.298251628875732,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00008_8.wav,Sonam Kapoor2,8.569723129272461,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00006_15.wav,Sonam Kapoor2,10.166960716247559,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00026.wav,Sonam Kapoor2,7.586377143859863,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00004_5.wav,Om Puri2,9.645886421203613,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00009_10.wav,Sonam Kapoor2,8.010515213012695,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00010_5.wav,Sonam Kapoor2,10.009536743164062,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00004_7.wav,Parineeti Chopra2,8.999445915222168,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00011_3.wav,Suraj Sharma2,13.046483993530273,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00002_23.wav,Sonam Kapoor2,11.052681922912598,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00007_4.wav,Sonam Kapoor2,7.094860553741455,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00006_13.wav,Suraj Sharma2,9.418122291564941,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00001_18.wav,Sonam Kapoor2,9.388273239135742,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00018_2.wav,Parineeti Chopra2,7.164280891418457,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00025.wav,Sonam Kapoor2,8.474129676818848,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00002_12.wav,Sonam Kapoor2,8.538771629333496,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00006_11.wav,Freida Pinto2,10.400521278381348,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00005_12.wav,Freida Pinto2,13.1531400680542,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00005_14.wav,Sonam Kapoor2,10.194887161254883,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00015.wav,Parineeti Chopra2,7.533714771270752,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00015_2.wav,Shraddha Kapoor2,7.177890300750732,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00008_11.wav,Tabu2,16.209354400634766,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00007_10.wav,Sonam Kapoor2,6.927041530609131,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00004_9.wav,Mallika Sherawat2,7.65570068359375,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00007.wav,Sonam Kapoor2,8.232460021972656,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00006_14.wav,Om Puri2,11.806435585021973,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00016_2.wav,Sonam Kapoor2,7.693731784820557,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00019_2.wav,Suraj Sharma2,8.936245918273926,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00004.wav,Parineeti Chopra2,6.327017784118652,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00007_7.wav,Suraj Sharma2,7.803011417388916,0
+Sonam_Kapoor,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11100\00003_10.wav,Freida Pinto2,10.562328338623047,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00016_3.wav,Suraj Sharma2,6.692140102386475,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00001_7.wav,Suraj Sharma2,8.885558128356934,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00003_14.wav,Pooja Kumar2,7.001655578613281,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00002_1.wav,Suraj Sharma2,7.717595100402832,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00001_20.wav,Ranbir Kapoor2,14.375921249389648,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00003_6.wav,Suraj Sharma2,7.641280174255371,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00003_16.wav,Suraj Sharma2,8.86929702758789,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00010_3.wav,Suraj Sharma2,8.945712089538574,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00006_2.wav,Suraj Sharma2,7.6855316162109375,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00013_5.wav,Akshay_Kumar2,7.933787822723389,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00006_16.wav,Suraj Sharma2,7.657452583312988,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00006_14.wav,Suraj Sharma2,7.94532585144043,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00016.wav,Suraj Sharma2,6.157289505004883,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00001_14.wav,Suraj Sharma2,7.467676639556885,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00025.wav,Suraj Sharma2,7.808982849121094,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00004_19.wav,Parineeti Chopra2,8.765560150146484,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00008_8.wav,Suraj Sharma2,5.978765487670898,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00006.wav,Suraj Sharma2,7.472620487213135,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00014_2.wav,Freida Pinto2,10.071843147277832,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00004_15.wav,Suraj Sharma2,9.174373626708984,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00014.wav,Suraj Sharma2,10.11648941040039,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00023.wav,Suraj Sharma2,6.341089248657227,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00005_9.wav,Naseeruddin Shah2,11.043379783630371,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00006_15.wav,Suraj Sharma2,7.05562686920166,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00006_10.wav,Suraj Sharma2,8.740487098693848,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00011_3.wav,Suraj Sharma2,9.184782981872559,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00018_1.wav,Suraj Sharma2,9.081489562988281,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00007_11.wav,Freida Pinto2,10.017759323120117,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00007_4.wav,Suraj Sharma2,9.34237003326416,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00022.wav,Suraj Sharma2,6.428613662719727,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00003_18.wav,Suraj Sharma2,8.645536422729492,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00006_5.wav,Suraj Sharma2,7.6486735343933105,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00002_10.wav,Suraj Sharma2,8.13733196258545,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00011_1.wav,Suraj Sharma2,7.406266212463379,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00001_9.wav,Naseeruddin Shah2,10.168944358825684,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00004_1.wav,Suraj Sharma2,6.879715442657471,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00001_5.wav,Naseeruddin Shah2,9.063241004943848,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00011_6.wav,Suraj Sharma2,6.545483112335205,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00014_1.wav,Suraj Sharma2,7.844101428985596,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00023_1.wav,Suraj Sharma2,8.168729782104492,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00009_9.wav,Suraj Sharma2,8.309645652770996,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00002_14.wav,Suraj Sharma2,7.103138446807861,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00002_20.wav,Suraj Sharma2,6.985404014587402,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00012_5.wav,Suraj Sharma2,9.489845275878906,0
+Suraj_Sharma,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11130\00010_2.wav,Suraj Sharma2,8.539932250976562,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00001_2.wav,Om Puri2,10.497076034545898,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00002_1.wav,Akshay_Kumar2,9.144330024719238,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00014.wav,Tabu2,6.482616424560547,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00006.wav,Tabu2,10.484711647033691,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00015.wav,Tabu2,11.59917163848877,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00001_8.wav,Tabu2,8.918155670166016,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00003_4.wav,Parineeti Chopra2,10.045473098754883,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00003_3.wav,Suraj Sharma2,8.905134201049805,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00010_1.wav,Sonam Kapoor2,8.27068042755127,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00002_3.wav,Tabu2,8.863919258117676,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00001_12.wav,Om Puri2,10.73010540008545,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00003_1.wav,Naseeruddin Shah2,12.106365203857422,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00011.wav,Tabu2,11.031484603881836,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00004_2.wav,Shahid Kapoor2,10.959479331970215,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00011_1.wav,Suraj Sharma2,9.916825294494629,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00001_11.wav,Sonam Kapoor2,8.193509101867676,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00004_3.wav,Sonam Kapoor2,7.543064117431641,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00001_1.wav,Shraddha Kapoor2,8.966524124145508,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00002_2.wav,Akshay_Kumar2,8.715422630310059,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00017.wav,Om Puri2,9.520196914672852,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00009.wav,Tabu2,9.581768035888672,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00002.wav,Tabu2,9.04153060913086,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00001.wav,Akshay_Kumar2,10.136981964111328,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00007_1.wav,Suraj Sharma2,9.575007438659668,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00008_1.wav,Parineeti Chopra2,9.934093475341797,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00008.wav,Tabu2,10.013644218444824,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00003_2.wav,Vidya Balan2,9.699910163879395,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00004.wav,Om Puri2,9.343989372253418,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00013.wav,Om Puri2,9.12282657623291,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00006_1.wav,Tabu2,13.757894515991211,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00002_8.wav,Sonam Kapoor2,8.963797569274902,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00006_2.wav,Shraddha Kapoor2,8.351545333862305,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00001_5.wav,Sonam Kapoor2,9.055359840393066,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00009_1.wav,Vidya Balan2,9.875240325927734,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00004_4.wav,Vidya Balan2,11.773214340209961,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00004_1.wav,Naseeruddin Shah2,9.19930362701416,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00007.wav,Om Puri2,9.247904777526855,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00005.wav,Tabu2,9.036327362060547,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00012.wav,Tabu2,8.185253143310547,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00001_7.wav,Shahid Kapoor2,9.229493141174316,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00001_3.wav,Akshay_Kumar2,8.620462417602539,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00016.wav,Akshay_Kumar2,8.285547256469727,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00002_7.wav,Shahid Kapoor2,8.989787101745605,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00001_4.wav,Naseeruddin Shah2,9.1852388381958,0
+Tabu,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11136\00010.wav,Om Puri2,9.097887992858887,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00009_2.wav,Om Puri2,8.716059684753418,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00006.wav,Vidya Balan2,9.90467643737793,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00012_11.wav,Naseeruddin Shah2,12.621225357055664,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00008_1.wav,Om Puri2,9.455150604248047,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00003_22.wav,Shraddha Kapoor2,8.004462242126465,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00001_1.wav,Sonam Kapoor2,8.794106483459473,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00028_2.wav,Vidya Balan2,9.067400932312012,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00003_15.wav,Vidya Balan2,7.054871559143066,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00019_5.wav,Parineeti Chopra2,9.793490409851074,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00008_10.wav,Om Puri2,8.495774269104004,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00003_26.wav,Om Puri2,10.66761589050293,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00010_2.wav,Shraddha Kapoor2,7.0974578857421875,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00005_1.wav,Vidya Balan2,8.758374214172363,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00009_3.wav,Suraj Sharma2,9.55872631072998,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00013_9.wav,Vidya Balan2,7.423983573913574,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00011.wav,Vidya Balan2,8.726600646972656,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00007_2.wav,Akshay_Kumar2,8.747350692749023,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00004_19.wav,Parineeti Chopra2,9.306198120117188,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00009_10.wav,Naseeruddin Shah2,9.849825859069824,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00008_8.wav,Vidya Balan2,8.415018081665039,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00006_10.wav,Parineeti Chopra2,8.187080383300781,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00004.wav,Vidya Balan2,7.701032638549805,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00025_3.wav,Mallika Sherawat2,7.774074554443359,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00008_15.wav,Naseeruddin Shah2,7.91828727722168,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00003_4.wav,Om Puri2,8.615811347961426,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00002_14.wav,Vidya Balan2,9.40631103515625,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00018_3.wav,Akshay_Kumar2,8.2439546585083,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00001_14.wav,Parineeti Chopra2,8.535561561584473,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00029.wav,Vidya Balan2,9.379243850708008,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00004_2.wav,Tabu2,9.744094848632812,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00006_12.wav,Vidya Balan2,10.46744155883789,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00016_2.wav,Vidya Balan2,7.431911468505859,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00014_6.wav,Vidya Balan2,6.538581371307373,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00004_22.wav,Shahid Kapoor2,9.521446228027344,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00022_5.wav,Parineeti Chopra2,6.603254795074463,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00028_1.wav,Parineeti Chopra2,9.552624702453613,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00005_10.wav,Vidya Balan2,7.635487079620361,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00019_1.wav,Akshay_Kumar2,8.911067962646484,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00002_2.wav,Om Puri2,9.441401481628418,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00012_13.wav,Suraj Sharma2,10.151382446289062,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00021_1.wav,Akshay_Kumar2,9.588444709777832,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00016.wav,Om Puri2,9.462817192077637,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00006_7.wav,Suraj Sharma2,11.712689399719238,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00001_4.wav,Akshay_Kumar2,9.289070129394531,0
+Vidya_Balan,D:\Voice Authetication ESPNET\datasetvox\vox1_indian\content\vox_indian\id11209\00013_2.wav,Vidya Balan2,7.47789192199707,0
