@@ -1,0 +1,11 @@
+librosa
+scipy
+numpy
+python_speech_features
+keras
+tensorflow
+pandas
+torch
+numpy
+espnet
+espnet_model_zoo
